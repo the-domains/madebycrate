@@ -1,0 +1,14 @@
+layout_spectrum: 0.4787234
+typography_spectrum: 0.4659574
+color:
+  saturation: 0.1766948
+  lightness: 0.8112205
+  brandStrength: 0.7147359
+  rhythmicContrast: 0.9478933
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: madebycrate
