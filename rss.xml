@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[madebycrate]]></title>
         <description><![CDATA[madebycrate]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/madebycrate/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 06:38:54 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 29 Jan 2016 08:22:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/madebycrate/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p></p>]]></description>
+            <link>http://giphy.com/gifs/matt-these-spots-eYgVBZKw2LG6Y</link>
+            <guid isPermaLink="false">84a72786-3609-49a4-9cc5-8e9383c49c63</guid>
+            <pubDate>Fri, 29 Jan 2016 08:21:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[This is a test.]]></title>
-            <description><![CDATA[<h1>This is a test.</h1>]]></description>
-            <link>undefinedthis-is-a-test/index.html</link>
+            <description><![CDATA[<article><h1>This is a test.</h1><p>Now don't forget that. You're going to be challenged in ways you can not yet imagine.</p></article>]]></description>
+            <link>https://thegrid.ai/madebycrate/this-is-a-test/index.html</link>
             <guid isPermaLink="false">617c4135-5e5f-4382-9680-1c17875b8b17</guid>
             <pubDate>Fri, 29 Jan 2016 06:38:43 GMT</pubDate>
         </item>
