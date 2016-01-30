@@ -1,29 +1,41 @@
-name: madebycrate
-favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.30552
 title: madebycrate
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+color:
+  saturation: 1
+  brandStrength: 1
+  lightness: 0.5625
+  brandColors:
+    - '#030203'
+    - '#FAF8F3'
+    - '#CE8954'
+    - '#309AB4'
+    - '#88D8CE'
+  rhythmicContrast: 0.9478933
 cta:
-  domain: null
   bucket: null
   version: null
+  domain: null
 analytics:
+  twitter: null
   google: null
   facebook: null
-  twitter: null
+favicon: null
+name: madebycrate
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#171614'
-    - '#685b55'
-    - '#343128'
-    - '#4a3f39'
-    - '#6f7072'
-  brandStrength: 0.5
-  lightness: 0.5625
-  saturation: 1
-  rhythmicContrast: 0.9478933
-purpose: []
+typography_spectrum: 0.30552
+layout_spectrum: 0
